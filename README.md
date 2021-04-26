@@ -4,3 +4,4 @@ CS106A is one of most popular courses at Stanford University. Code in Place was 
 # Resources
 - Official Website: https://codeinplace.stanford.edu/
 - Karel reader : https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
+- Python reader : https://codeinplace2021.github.io/pythonreader/en/intro/
